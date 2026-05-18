@@ -1,7 +1,7 @@
 # ♾️ Infinity Collection — Business Intelligence Project
 
 <p align="center">
-  <img src="docs/logo_placeholder.png" alt="Infinity Collection Logo" width="200"/>
+  <img src="docs/logo.png" alt="Infinity Collection Logo" width="200"/>
 </p>
 
 <p align="center">
